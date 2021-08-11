@@ -1,0 +1,14 @@
+--atlas -f rgba8888 -z auto
+ball.png
+ball_shadow.png
+bg_dark.png
+bg_light.png
+logo.png
+border.png
+powermeter.png
+hole.png
+point.png
+tile16_dark.png
+tile16_light.png
+tile32_dark.png
+tile32_light.png

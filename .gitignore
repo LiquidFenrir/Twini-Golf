@@ -1,0 +1,4 @@
+romfs/gfx/
+build/
+out/
+.vscode/
